@@ -271,7 +271,7 @@ function grade(num){
   } else if (num < 70 && num >= 60) {
     return 'you got a D'
   } else {
-    return 'you got an F'
+    return 'you got an F';
   }
 } 
 
